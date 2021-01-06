@@ -16,7 +16,7 @@ I find it very helpful to use database schema design tools to visualize a projec
 - [Presentation Video](https://www.youtube.com/watch?v=r2XFSdZUbB4&feature=youtu.be)
 - [Try the app](https://pg-visualizer.herokuapp.com/#/)
 
-### [Grace Shopper](https://github.com/FullstackAcademy/2007-new-clear-reacto) (2007-new-clear-reacto below)
-E-commerce website
+### [Grace Shopper](https://github.com/FullstackAcademy/2007-new-clear-reacto)
+E-commerce website (repo is called 2007-new-clear-reacto below)
  - Tech: Node, Express, React, Redux, PostgreSQL, and Heroku
  - [Try the app](https://sahara-books.herokuapp.com/#/)
