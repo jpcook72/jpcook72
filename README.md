@@ -1,6 +1,6 @@
 # Hi, I'm John
 
-Below, you will find some of my personal software engineering projects. I primarily work in full-stack JavaScript (React and Vue on the front-end), but I'm always looking to learn new tech. Recently, I've been getting into TypeScript.
+Below, you can find some of my personal software engineering projects. I primarily work in full-stack JavaScript (React and Vue on the front-end), but I'm always looking to learn new tech. Recently, I've been getting into TypeScript.
 
 ## Projects:
 ### [Deckr](https://github.com/FSA-Deckr/deckr)
