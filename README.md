@@ -1,6 +1,6 @@
 # Hi, I'm John
 
-Below, you can find some of my personal software engineering projects. I primarily work in full-stack JavaScript (React and Vue on the front-end), but I'm always looking to learn new tech.
+Below, you can find some of my personal software engineering projects. I primarily work in TypeScript/JavaScript with Node and React, but I'm always looking to learn new tech.
 
 ## Projects:
 ### [PostgreSQL code-generator](https://github.com/jpcook72/PostgreSQL-code-generator)
