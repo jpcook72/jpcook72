@@ -9,9 +9,7 @@ I find it very helpful to use database schema design tools to visualize a projec
 - [Presentation Video](https://www.youtube.com/watch?v=r2XFSdZUbB4&feature=youtu.be)
 - [Try the app](https://pg-visualizer.herokuapp.com/#/)
 - [Tests](https://github.com/jpcook72/PostgreSQL-code-generator/tree/master/client/__tests__)
-
-    ### [pg-auto-write](https://github.com/jpcook72/pg-auto-write)
-    npm module used to connect PostgreSQL code-generator (see above) with your code-base
+- [pg-auto-write](https://github.com/jpcook72/pg-auto-write): npm module used to connect PostgreSQL code-generator with your code-base
     - Tech: JavaScript, Node, Express, Jest
     - [Tests](https://github.com/jpcook72/pg-auto-write/blob/master/test.js)
 
