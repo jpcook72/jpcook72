@@ -10,10 +10,10 @@ I find it very helpful to use database schema design tools to visualize a projec
 - [Try the app](https://pg-visualizer.herokuapp.com/#/)
 - [Tests](https://github.com/jpcook72/PostgreSQL-code-generator/tree/master/client/__tests__)
 
-### [pg-auto-write](https://github.com/jpcook72/pg-auto-write)
-npm module used to connect the schema visualizer described above with your code-base
-- Tech: JavaScript, Node, Express, Jest
-- [Tests](https://github.com/jpcook72/pg-auto-write/blob/master/test.js)
+    ### [pg-auto-write](https://github.com/jpcook72/pg-auto-write)
+    npm module used to connect PostgreSQL code-generator (see above) with your code-base
+    - Tech: JavaScript, Node, Express, Jest
+    - [Tests](https://github.com/jpcook72/pg-auto-write/blob/master/test.js)
 
 ### [Deckr](https://github.com/FSA-Deckr/deckr)
 Deckr is a virtual multiplayer card table with in-game video chat. It posed an interesting problem in delivering a multiplayer game where players require a synchronized environment and state (especially when dealing with the randomness of in-game physics!).
